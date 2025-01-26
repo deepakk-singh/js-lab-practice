@@ -22,7 +22,7 @@ console.log(typeof score)
 let valueInNumber= Number(score)   //we can also use as string
 console.log(typeof valueInNumber)
 
-*/
+
 
 let loggedIn=1
 console.log(typeof loggedIn)
@@ -34,3 +34,25 @@ console.log(booleanIsNumber)
 //  0 => then we get false 
 //  but "" => then we get false
 // and "hfdsfn" => also get true
+
+*/
+
+
+//************************************Operation**********************************
+
+let value=3
+let negValue=-value
+//console.log(negValue)
+
+//console.log(2+2)
+//console.log(2-2)
+//console.log(2*2)
+//console.log(2/2)
+//console.log(2**2)  //means 2^2
+//console.log(2**3)  //means 2^3
+//console.log(5%2)
+
+let str1="Hello";
+let str2 = " , Ka haal ba";
+let str3 = str1+str2;
+console.log(str3)
