@@ -31,4 +31,4 @@
          Null
          Undefined
          symbol
-         BigInt
+         BigInt*/
