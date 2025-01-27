@@ -21,3 +21,14 @@
      console.log(typeof age)  //tells about data types
      console.log(typeof undefined)
      console.log(typeof null)
+
+
+     // Notes
+       //Primitive data types.  (total 7)
+     /*  String
+         Boolean
+         Number
+         Null
+         Undefined
+         symbol
+         BigInt
