@@ -18,6 +18,25 @@ const regularUser={
     }
 }
 //console.log(regularUser)
-console.log(regularUser.name)
-console.log(regularUser.name.userFullname)
-console.log(regularUser.name.userFullname.firstName)
+//console.log(regularUser.name)
+//console.log(regularUser.name.userFullname)
+//console.log(regularUser.name.userFullname.firstName)
+
+
+const course = {
+    coursename:"SQL",
+    price:"9990",
+    courseInstructor:"Deepak"
+}
+
+//course.courseInstructor
+
+const{courseInstructor}= course
+console.log(courseInstructor);
+
+{
+    "name":"Deepak",
+    "courseName": "DBMS",
+    "price": "free"
+
+}
