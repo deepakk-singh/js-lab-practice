@@ -35,8 +35,8 @@ const{courseInstructor}= course
 console.log(courseInstructor);
 
 {
-    "name":"Deepak",
-    "courseName": "DBMS",
-    "price": "free"
+  //  "name":"Deepak",
+    //"courseName": "DBMS",
+   // "price": "free"
 
 }
