@@ -7,7 +7,7 @@ JavaScript variables have 3 types of scope:
 -->>Function scope
 -->>Global scope
 
-*/
+
 //Those variables which are declared outside the function or blocks or you can say curly braces({}) are having a global scope.
 //In a JavaScript program, global variables can be accessed from anywhere.
 
@@ -21,3 +21,18 @@ function d(){
        console.log(c);
 }
 d()
+
+*/
+
+
+function one() {
+       const username = "Deepak"
+
+function two() {
+       const website = "GIt"
+       console.log(username)
+}
+ //console.log(website)  
+ two()   
+}
+one()
